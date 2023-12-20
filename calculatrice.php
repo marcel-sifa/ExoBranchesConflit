@@ -1,4 +1,7 @@
-function somme($x, $y){
-    $calcul = $x / $y;
-    return $calcul;
-}
+<?php
+    function somme($x, $y){
+       //teste
+        $calcul = $x / $y;
+        return $calcul;
+    }
+?>
